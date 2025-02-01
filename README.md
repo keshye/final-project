@@ -135,4 +135,4 @@ Conclusion
 This project demonstrates proficiency in front-end web development technologies, including HTML5, CSS3, and JavaScript. It also highlights the ability to deploy a website using platforms like GitHub Pages, Netlify, or Vercel.
 
 Live Website URL
-Insert Live URL Here
+https://comfy-cendol-e94f02.netlify.app/ 
