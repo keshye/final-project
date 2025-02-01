@@ -111,11 +111,7 @@ Drag and drop the project folder into the Netlify dashboard.
 
 Netlify will deploy the site and provide a live URL.
 
-Vercel:
 
-Install Vercel CLI and run vercel in the project folder.
-
-Follow the prompts to deploy the site.
 
 Challenges Faced
 Responsive Design:
